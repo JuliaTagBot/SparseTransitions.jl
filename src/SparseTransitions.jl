@@ -6,7 +6,6 @@ using LinearAlgebra:tr,I
 
 include("main_func.jl")
 
-
 export fast_minim
 
 end # module
